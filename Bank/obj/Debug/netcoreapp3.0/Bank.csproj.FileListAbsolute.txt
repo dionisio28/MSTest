@@ -1,0 +1,11 @@
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\bin\Debug\netcoreapp3.0\Bank.exe
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\bin\Debug\netcoreapp3.0\Bank.deps.json
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.json
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.dev.json
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\bin\Debug\netcoreapp3.0\Bank.dll
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\bin\Debug\netcoreapp3.0\Bank.pdb
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfo.cs
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\obj\Debug\netcoreapp3.0\Bank.dll
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\obj\Debug\netcoreapp3.0\Bank.pdb
+C:\Users\Dionisio\Desktop\MsTest\FristTests\Bank\obj\Debug\netcoreapp3.0\Bank.csprojAssemblyReference.cache
