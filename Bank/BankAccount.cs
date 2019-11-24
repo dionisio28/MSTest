@@ -26,7 +26,7 @@ namespace BankAccountNS
 
         public void Saque(double quantidade)
         {
-            //Caso eu não adiciona o a exceção ArgumentOutOfRangeException o teste apresentará falhas
+            //Caso eu não adicionar a exceção ArgumentOutOfRangeException o teste apresentará falhas
 
             if (quantidade > m_balance)
                 throw new ArgumentOutOfRangeException(SaqueInvalido_supeior_ao_Saldo);
